@@ -4,3 +4,4 @@ Reading The Great Gatsby.
 Added .gitignore.txt
 Adding Light Mode.
 Added gray mode.
+Adding this in gray mode but not committing or staging, but moving around.
