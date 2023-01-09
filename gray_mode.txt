@@ -1,0 +1,3 @@
+Making this file in gray mode. This exists only in gray mode so now when 
+I move to another branch, this will not create a problem and Git will 
+let me switch branches.
