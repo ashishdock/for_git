@@ -3,3 +3,4 @@ Hi Universe!
 Reading The Great Gatsby.
 Added .gitignore.txt
 Adding Light Mode.
+Added gray mode.
