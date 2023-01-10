@@ -1,6 +1,6 @@
 1. Car
 2. Plane
 3. 
-4. Tricycle
+4. Bicycle
 5. Scoo
-6. Motor
+6. Motor Boat
