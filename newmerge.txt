@@ -5,3 +5,4 @@
 5. Scoo
 6. Motor Boat
 7. Rocket
+8. Skateboard
